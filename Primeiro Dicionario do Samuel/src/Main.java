@@ -4,8 +4,8 @@ Entrega a Atividade 2 - Algoritmos e Programação II
 Nós,
 
 Wallace Araujo da Silva
-Nome completo 
-Nome completo 
+Renan Lallo de Moura Cavalcante
+André Luis Lima de Oliveira
 
 declaramos que
 
