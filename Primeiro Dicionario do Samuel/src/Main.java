@@ -3,7 +3,7 @@ Entrega a Atividade 2 - Algoritmos e Programação II
 
 Nós,
 
-Nome completo 
+Wallace Araujo da Silva
 Nome completo 
 Nome completo 
 
