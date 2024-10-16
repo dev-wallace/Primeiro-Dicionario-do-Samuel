@@ -31,11 +31,11 @@ public class Main {
     public static void main(String[] args) throws FileNotFoundException {
         try {
             // Chama o método organizaTexto da classe OrganizaTexto com o caminho completo do arquivo
-            OrganizaTexto.organizaTexto("C:\\Users\\WINDOWS 11\\Desktop\\Primeiro Dicionario do Samuel\\Primeiro Dicionario do Samuel\\src\\TextoDoSamuel.txt");
+            OrganizaTexto.organizaTexto("Primeiro/Primeiro/src/TextoDoSamuel.txt");
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
-
+      
         
     }
 }
