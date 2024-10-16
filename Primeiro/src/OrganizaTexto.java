@@ -39,7 +39,7 @@ public class OrganizaTexto {
         }
         
                 // Exibir total de palavras diferentes
-                System.out.println("Total de palavras diferentes no dicionário: " + contador);
+                System.out.println("Total de palavras diferentes no dicionário= " + contador);
     }
 
  
